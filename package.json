@@ -1,0 +1,9 @@
+{
+  "name": "performance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yinhaiying/performance.git",
+  "author": "'yinhaiying' <'yinhaiying@58.com'>",
+  "license": "MIT",
+  "devDependencies": {}
+}
